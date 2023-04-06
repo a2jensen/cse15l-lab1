@@ -1,3 +1,3 @@
-  CSE 15L Testing First Lab
+**CSE 15L Testing First Lab**
 
-Markdown is a simple markup language that allows you to apply formatting to plain text documents. It was developed by John Gruber in 2004 and has gained immense popularity worldwide. Unlike WYSIWYG editors like Microsoft Word, Markdown requires you to use specific syntax to format text elements. For instance, to create a heading, you add a hash symbol before the text (e.g., # Heading One). Similarly, to make text bold, you enclose it with two asterisks on each side (e.g., this text is bold). Initially, it may take some time to get accustomed to Markdown's syntax, especially if you are used to WYSIWYG editors. You can use text editors like Visual Studio Code to write Markdown files.
+
