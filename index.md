@@ -16,6 +16,10 @@
 
 -To use ssh, I opened a terminal in VScode and typed "ssh cs15lsp23zz@ieng6.ucsd.edu"(replace zz with your own accounts letters). Then after recieving a message to connect to the servers I typed in yes and then inputted my password. Once I logged in any commands I ran/you will run will be on the remote server. Any errors encountered you should screenshot and described in your groups notes.
 
+-Once you login this is how your screen should look:
+
+![Image](connect.png)
+
 **Step 3: Trying Some Commands**
 
 -Now with trying some commands, you can run cd, ls, pwd, mkdir, and cp on both your computer and remote computer after ssh-ing. As I did, this is done through the use of the terminal in VScode.
@@ -26,5 +30,9 @@
   * ls -lat
   * ls -a
   * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+  
+-Here is what your screen should look like when trying commands out:
+
+![Image](commands.png)
 
 
