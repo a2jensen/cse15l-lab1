@@ -8,6 +8,8 @@
 
 -Here is how my screen looked like, and this is how yours should look as well:
 
+![Image](vs download.png)
+
 **Step 2: Remote Connecting**
 
 -To start off, you need to know that courses in CSE use course specific accounts. You will see how VScode/terminal connects to a remote computer over the internet in order to do the work there. For those in windows, you will need to install git.
