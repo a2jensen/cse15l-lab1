@@ -31,11 +31,11 @@
 -You can run commands on both your computer and remote computer after ssh-ing. As I did, this is done through the use of the terminal in VScode.
 
 -Some specific commands you can use are:
-  * cd ~
-  * cd
-  * ls -lat
-  * ls -a
-  * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+  ····cd ~
+  ····cd
+  ····ls -lat
+  ····ls -a
+  ····cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
   
 -Here is what your screen should look like when trying commands out:
 
